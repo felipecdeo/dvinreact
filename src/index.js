@@ -10,7 +10,7 @@ reactDOM.render(
   <>
     <Header name="Felipe Deo" desc="Junior Front-end DeveloperJunior Front-end Developer"/>
     <div className="container">
-    <Row title="Abot me" desc="I’m a brazilian front-end dev looking for my first experience in a full time job."/>
+    <Row title="About me" desc="I’m a brazilian front-end dev looking for my first experience in a full time job."/>
     <Row title="Skills" desc="HTML , Pug, CSS, Sass / SCSS, Javascript / ES6, Json & Git / Github"/>
       <div className="container__block"> 
         <div className="container__image container__image--about"></div>
