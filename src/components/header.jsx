@@ -1,10 +1,10 @@
 import React from 'react'
-import me from '../assets/felipe.png'
+import image from '../assets/felipe.png'
 
 export default props => 
   <div className="header">
     <div className="header__background"></div>
-    <img className="header__image" src={me}></img>
+    <img className="header__image" src={image}></img>
     <h1 className="header__name font--maximum"> {props.name} </h1>
     <h2 className="header__desc font--medium.no-margin"> {props.desc} </h2>
     <div className="header__contact">
