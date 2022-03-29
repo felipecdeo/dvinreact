@@ -1,5 +1,5 @@
 import react from "react";
-import links from '../data/links'
+import links from '../data/works'
 
   export default props => {
       
