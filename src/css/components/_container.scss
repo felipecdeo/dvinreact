@@ -4,11 +4,11 @@
   margin: 0 auto;
   position: relative;
   
-  @media screen and (min-width: 561px) {
-    max-width: 520px;
+  @media screen and (min-width: 1070px) {
+    max-width: 1040px;
   }
 
-  @media screen and (max-width: 560px) {
+  @media screen and (max-width: 1069px) {
     max-width: 90%;
   }
 
@@ -26,9 +26,10 @@
   &__title {
     font-weight: bold;
   }
+  
 
   &__desc {
-    margin: 10px 0;
+    margin: 5px 0 10px;
   }
 
   &__image { 
