@@ -22,7 +22,7 @@ reactDOM.render(
     </div>
     <div className="container">
     <AboutMe title="About me" desc="I’m a brazilian front-end dev looking for my first experience in a full time job."/>
-    <Skills title="Skills" desc="HTML , Pug, CSS, Sass / SCSS, Javascript / ES6, Json & Git / Github"/>
+    <Skills title="Skills" desc="HTML, Pug, CSS, Sass / SCSS, Typescript / TDD, SOLID / RecoilJS, Jest / Vue, React / ES6, Json & Git / Github"/>
       <div className="container__block"> 
         <div className="container__image container__image--about"></div>
         <h1 className="container__title font--medium no-margin">Work Experience</h1>
